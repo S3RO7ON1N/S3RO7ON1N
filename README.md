@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @S3RO7ON1N
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on web app projects
+- 👋 Hi, I’m @S3RO7ON1N.
+- 👀 I’m interested in web development and cyber security. 
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to collaborate on web app projects.
 - 📫 discord:- 53r0t0n1n
 
 <!---
